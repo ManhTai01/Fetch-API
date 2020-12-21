@@ -27,6 +27,30 @@
 .App-link {
   color: #61dafb;
 }
+.header{
+  height:  40px;
+  text-align: center;
+  line-height: 40px;
+}
+.input-control{
+  text-align: center;
+  font-size: 15px;
+  height:25px ;
+  width: 300px;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+}
+table{
+  width: 100%;
+}
+th{
+    border: 2px solid black;
+  text-align: center;
+}
+td{
+  width: 50px;
+  text-align: center;
+}
 
 @keyframes App-logo-spin {
   from {
